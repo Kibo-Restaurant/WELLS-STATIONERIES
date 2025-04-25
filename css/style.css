@@ -117,6 +117,10 @@ CSS STRUCTURE:
   }
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /*----------------------------------------------*/
 /* 2. GENERAL TYPOGRAPHY */
 /*----------------------------------------------*/
@@ -1201,6 +1205,7 @@ th{
   }
 }
 
+
 /* 4.2 Billboard
 /*----------------------------------------------*/
 /*------------Swiper Arrow -----------*/
@@ -1385,14 +1390,14 @@ select#input-sort {
 
 
 /*************                             ********************
-******************      CUSTOM CLASS                        *********
+******************      CUSTOM STYLES-                       *********
 ***********************     *****                *********************
 ***************                               ********************/
 
 
 .navbar-brand img{
-  max-width:150px;
-  max-height:100px;
+  max-width:100px;
+  max-height:50px;
 }
 .footer-menu img{
   max-width:150px;
@@ -1404,15 +1409,17 @@ select#input-sort {
   /* display:block; */
 }
 
-/*Swiper .js*****/
 
-.swiper .swiper-slide p{
+/*Swiper .js *****/
+/** Swiper Main Banner */
+
+.swiper1 .swiper-slide p{
   color:white;
   font-weight: bold;
   text-shadow: #2D3748;
-}
+} 
 /* Swiper Pagination Dots */
-.swiper-pagination {
+.swiper-pagination{
   bottom: 20px !important;
   text-align: center;
 }
@@ -1435,7 +1442,7 @@ select#input-sort {
 .swiper-button-next,
 .swiper-button-prev {
   color: var(--accent-color);
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.85);
   width: 60px;
   height: 60px;
   border-radius: 50%;
@@ -1454,7 +1461,22 @@ select#input-sort {
   transform: scale(1.1);
 }
 
-/* Positioning for large screens */
+/* Responsive Arrows */
+@media (max-width: 767px) {
+  .swiper-button-next,
+  .swiper-button-prev {
+    width: 50px;
+    height: 50px;
+  }
+  .swiper-button-next,
+.swiper-button-prev {
+  display:none;
+}
+
+
+}
+
+/* Positioning on large screens */
 @media (min-width: 768px) {
   .swiper-button-prev {
     left: 20px;
@@ -1463,19 +1485,465 @@ select#input-sort {
   .swiper-button-next {
     right: 20px;
   }
+  
 }
 
-/* Adjust size for small screens */
-@media (max-width: 767px) {
-  .swiper-button-next,
-  .swiper-button-prev {
+/* Pagination Bullets */
+.swiper-pagination-bullet {
+  background-color: var(--gray-color-500);
+  opacity: 0.7;
+  width: 12px;
+  height: 12px;
+  margin: 0 6px;
+  transition: all 0.3s ease;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: var(--accent-color);
+  opacity: 1;
+  transform: scale(1.2);
+}
+
+/* Ensure visibility on image slides */
+.swiper-pagination {
+  position: absolute;
+  bottom: 80%;
+  text-align: center;
+  width: 100%;
+  z-index: 11;
+}
+
+
+/*------------------------------------*\
+  Swiper Slides for the products sections
+\*------------------------------------*/
+.section-header{
+  text-align: center;
+}
+.tab-content > div:not(.active) {
+  display: none; /* Hide inactive tab content */
+}
+
+.swiper {
+  width: 100%;
+  height: auto;
+}
+
+.swiper-slide .product-item {
+  text-align: center;
+}
+
+
+
+.tab.active {
+  background:var(--primary-color);
+  color: white;
+}
+.tabs {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 20px;
+  padding: 0;
+}
+
+.tab {
+  padding: 8px 16px;
+  cursor: pointer;
+  background: #f0f0f0;
+  border-radius: 5px;
+  /* font-size: 0.9rem; */
+  flex: 1 1 auto;
+  text-align: center;
+  min-width: 140px;
+}
+
+@media (max-width: 768px) {
+  .tab {
+    /* font-size: 0.8rem; */
+    padding: 6px 10px;
+    min-width: 100px;
+  }
+}
+
+
+/*------------------------------------*\
+  Swiper Slides for the products sections
+\*------------------------------------*/
+.section-header {
+  text-align: center;
+}
+
+.tab-content > div:not(.active) {
+  display: none; /* Hide inactive tab content */
+}
+
+.swiper1 {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+ 
+}
+
+.swiper-slide {
+  text-align: center; /* Center content */
+}
+/*------------------------------------*\
+  Swiper Slides for the products sections
+\*------------------------------------*/
+.section-header {
+  text-align: center;
+}
+
+.tab-content > div:not(.active) {
+  display: none; /* Hide inactive tab content */
+}
+
+.swiper {
+  width: 100%;
+  height: auto;
+  overflow: hidden; 
+  padding-bottom: 80px; /* Space for pagination and navigation */
+}
+
+.swiper-slide {
+  text-align: center; /* Center content */
+}
+
+/*------------------------------------*\
+  Dynamically inserted swiper slides styling
+\*------------------------------------*/
+.product-item {
+  background: #fff;
+  border-radius: 1rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  padding: 1rem;
+  width: 100%;
+  max-width: 280px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.product-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.1);
+}
+
+.product-style a img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 0.75rem;
+}
+
+figcaption {
+  margin-top: 1rem;
+}
+
+figcaption h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 0.25rem;
+  line-height: 1.3;
+}
+
+figcaption span {
+  font-size: 0.9rem;
+  color: #777;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.item-price {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #2c7a7b;
+}
+
+.add-to-cart {
+  margin-top: 0.75rem;
+  background-color: #2c7a7b;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.add-to-cart:hover {
+  background-color: #225e61;
+}
+
+/* Swiper Pagination */
+.swiper-pagination2 {
+  position: relative;
+  bottom: 0 !important;
+  text-align: center;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px; /* Space between buttons */
+}
+
+.swiper-pagination-bullet {
+  background: transparent;
+  color: var(--primary-color, #2c7a7b);
+  font-size: 1rem;
+  font-weight:900;
+  width: 32px;
+  height: 32px;
+  line-height: 30px;
+  border: 2px solid var(--accent-color, #2c7a7b);
+  border-radius: 8px; /* Rounded square for button look */
+  opacity: 0.6;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.swiper-pagination-bullet-active {
+  color: var(--accent-color, #2c7a7b);
+  border-color: var(--primary-color, #225e61);
+  font-weight: 700;
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+/* Swiper Navigation */
+.swiper-navigation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px; /* Space between buttons */
+  margin-top: 10px; /* Space from pagination */
+}
+
+.swiper-button-next2,
+.swiper-button-prev2 {
+  position: relative;
+  background: transparent;
+  color: var(--primary-color, #2c7a7b);
+  width: 40px;
+  height: 40px;
+  border: 2px solid var(--primary-color, #2c7a7b);
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.swiper-button-next2::after,
+.swiper-button-prev2::after {
+  font-size: 20px; /* Arrow size */
+  font-weight: bold;
+}
+
+.swiper-button-next2:hover,
+.swiper-button-prev2:hover {
+  border-color: var(--primary-color, #225e61);
+  color: var(--primary-color, #225e61);
+  transform: scale(1.1);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .product-item {
+    max-width: 220px;
+  }
+
+  .product-style img {
+    height: 200px;
+  }
+
+  figcaption h3 {
+    font-size: 1rem;
+  }
+
+  figcaption span {
+    font-size: 0.85rem;
+  }
+
+  .item-price {
+    font-size: 1rem;
+  }
+
+  .swiper-pagination-bullet {
+    width: 28px;
+    height: 28px;
+    font-size: 0.9rem;
+  }
+
+  .swiper-button-next2,
+  .swiper-button-prev2 {
     width: 36px;
     height: 36px;
   }
-  .swiper-pagination-bullet {
-    width: 10px;
-    height: 10px;
-    margin: 0 4px;
+
+  .swiper-button-next2::after,
+  .swiper-button-prev2::after {
+    font-size: 18px;
   }
+}
+
+@media (max-width: 320px) {
+  .product-item {
+    max-width: 180px;
+  }
+
+  .product-style img {
+    height: 180px;
+  }
+
+  .swiper-pagination-bullet {
+    width: 24px;
+    height: 24px;
+    font-size: 0.85rem;
+  }
+}
+
+/*------------------------------------*\
+  Adding to Cart and Check out styles
+\*------------------------------------*/
+
+/* Cart Modal */
+#cart-modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+  justify-content: center;
+  align-items: center;
+}
+
+.cart-modal-content {
+  background: var(--white-color);
+  border-radius: 1rem;
+  padding: 2rem;
+  max-width: 600px;
+  width: 90%;
+  max-height: 80vh;
+  overflow-y: auto;
+  position: relative;
+  box-shadow: var(--bs-box-shadow);
+}
+
+.cart-modal-content h2 {
+  margin: 0 0 1rem;
+  color: var(--accent-color);
+}
+
+.cart-modal-close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: var(--primary-color);
+  color: var(--white-color);
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.cart-modal-close:hover {
+  background: var(--accent-color);
+}
+
+.cart-items {
+  margin-bottom: 1rem;
+}
+
+.cart-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--gray-color-300);
+}
+
+.cart-item img {
+  border-radius: 0.5rem;
+}
+
+.cart-item-details {
+  flex: 1;
+}
+
+.cart-item-details span {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.cart-quantity {
+  width: 60px;
+  padding: 0.25rem;
+  border: 1px solid var(--gray-color-300);
+  border-radius: 4px;
+}
+
+.cart-remove {
+  background: var(--primary-color);
+  color: var(--white-color);
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.cart-remove:hover {
+  background: var(--gray-color-800); /* darker alternative */
+}
+
+.cart-clear {
+  background: var(--primary-color);
+  color: var(--white-color);
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 999px;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+.cart-clear:hover {
+  background: var(--gray-color-800);
+}
+
+/* Header Cart Button */
+.cart-info {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+}
+
+#view-cart {
+  background: var(--accent-color);
+  color: var(--white-color);
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+#view-cart:hover {
+  background: var(--primary-color);
+}
+
+/*Top info in header custom styling*/
+#header .top-info  .text-center{
+  font-size: 5em;
 }
 
