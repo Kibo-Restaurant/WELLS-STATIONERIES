@@ -29,7 +29,10 @@ function populateSlides(section, category, products, wrapperId) {
             <a href="checkout.html?id=${product.id}">
               <img src="${product.image}" alt="${product.title}" class="product-item" loading="lazy">
             </a>
-            <button type="button" class="add-to-cart" data-product-id="${product.id}" data-title="${product.title}" data-price="${product.price}" data-image="${product.image}">Add to Cart</button>
+            <div class="button-group">
+          <button type="button" class="add-to-cart" data-product-id="${product.id}" data-title="${product.title}" data-price="${product.price}" data-image="${product.image}">Add to Cart</button>
+          <button type="button" class="view-cart" data-product-id="${product.id}" data-title="${product.title}" data-price="${product.price}" data-image="${product.image}">View Cart</button>
+        </div>
           </figure>
           <figcaption>
             <h3>${product.title}</h3>
@@ -38,6 +41,27 @@ function populateSlides(section, category, products, wrapperId) {
           </figcaption>
         </div>
       </div>`;
+      const addCart = document.querySelectorAll('.add-to-cart');
+      const viewCartButtons = document.querySelectorAll('.view-cart');
+
+      addCart.forEach((button, i) => {
+        button.addEventListener('click', function () {
+          if (viewCartButtons[i]) viewCartButtons[i].style.display = 'block';
+         
+        });
+      });
+
+      viewCartButtons.forEach(button => {
+        button.addEventListener('click', () => {
+          updateCartDisplay();
+          const modal = document.querySelector('#cart-modal');
+          if (modal) {
+            modal.style.display = 'block';
+          } else {
+            console.error('Cart modal not found');
+          }
+        });
+      });
   });
   console.log(`Populated ${products.length} slides for ${wrapperId}`);
 }
