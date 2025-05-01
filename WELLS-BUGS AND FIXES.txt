@@ -3,7 +3,7 @@
    =DONE
 2. In check out a customer should be flexible to drop someitems
  * Add individual clear item x buttons
-  =
+  =DONE
 3.Cart accessed via navbar toogle button should close navbar too.
 * Visit navbar controlling button to fix
 *Point and add eventlistener click
@@ -18,5 +18,20 @@
 
 6. Cart is empty in check out
   *Find a way of viewing modal in check out
+=DONE
 
 7.Fix the footer. It has a Weird space
+=
+
+8. Cart not cleared automatically when checking out
+=
+9.Slow load images
+=
+
+10.Add the other three sections
+=
+
+11. PDF.JS at checkout.html
+=
+12. Navbar inchecki=out aand choose payment links
+=
