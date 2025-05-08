@@ -1,0 +1,667 @@
+{
+    "novels": {
+      "fiction": [
+    {
+        "id": "201a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (1).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "202a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (2).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "203a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (3).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "204a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (4).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "205a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (5).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "206a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (6).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "207a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (7).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "208a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (8).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "209a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (9).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "210a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (10).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "211a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (11).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "212a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (12).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "213a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (13).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "214a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (14).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "215a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (15).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "216a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (16).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "217a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (17).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "218a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (18).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "219a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (19).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "220a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (20).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "221a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (21).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "222a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (22).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "223a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (23).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "224a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (24).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "225a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (25).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "226a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (26).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "227a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (27).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "228a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (28).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "229a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (29).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "230a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (30).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "231a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (31).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "232a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (32).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "233a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (33).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "234a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (34).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "235a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (35).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "236a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (36).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "237a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (37).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "238a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (38).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "239a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (39).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "240a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (40).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "241a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (41).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "242a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (42).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "243a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (43).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "244a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (44).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "245a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (45).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "246a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (46).jpg",
+        "category": "Fiction"
+    },
+    {
+        "id": "247a",
+        "title": "Fiction Book",
+        "author": "General Author",
+        "price": 2500,
+        "image": "images/fiction-books/fiction-books-mtwapa-books-centre (47).jpg",
+        "category": "Fiction"
+    }
+
+  ],
+    "nonFiction": [
+    {
+        "id": "248a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (1).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "249a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (2).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "250a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (3).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "251a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (4).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "252a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (5).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "253a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (6).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "254a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (7).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "255a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (8).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "256a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (9).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "257a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (10).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "258a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (11).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "259a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (12).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "260a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (13).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "261a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (14).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "262a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (15).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "263a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (16).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "264a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (17).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "265a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (18).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "266a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (19).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "267a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (20).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "268a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (21).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "269a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (22).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "270a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (23).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "271a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (24).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "272a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (25).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "273a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (26).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "274a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (27).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "275a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (28).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "276a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (29).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "277a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (30).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "278a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (31).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "279a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (32).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "280a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (33).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "281a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (34).jpg",
+        "category": "Non-Fiction"
+    },
+    {
+        "id": "282a",
+        "title": "Non-Fiction Book",
+        "author": "General Author",
+        "price": 4000,
+        "image": "images/non-fiction-books/non-fiction-books-mtwapa-books-centre (35).jpg",
+        "category": "Non-Fiction"
+    }
+  ]
+
+
+    }
+}

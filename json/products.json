@@ -1,916 +1,924 @@
 {
     "textbooks": {
-      "prePrimaryECDE": [
-        {
-          "id": 1,
-          "title": "Pre-Primary Book 1",
-          "author": "Mentor Publishers",
-          "image": "images/pre-primary/pre-primary-wells (1).jpg",
-          "price": 350
-        },
-        {
-          "id": 2,
-          "title": "Pre-Primary Book 2",
-          "author": "Mentor Publishers",
-          "image": "images/pre-primary/pre-primary-wells (2).jpg",
-          "price": 350
-        },
-        {
-          "id": 3,
-          "title": "Pre-Primary Book 3",
-          "author": "Longhorn Publishers",
-          "image": "images/pre-primary/pre-primary-wells (3).jpg",
-          "price": 350
-        },
-        {
-          "id": 4,
-          "title": "Pre-Primary Book 4",
-          "author": "Longhorn Publishers",
-          "image": "images/pre-primary/pre-primary-wells (4).jpg",
-          "price": 350
-        },
-        {
-          "id": 5,
-          "title": "Pre-Primary Book 5",
-          "author": "Mentor Publishers",
-          "image": "images/pre-primary/pre-primary-wells (5).jpg",
-          "price": 350
-        },
-        {
-          "id": 6,
-          "title": "Pre-Primary Book 6",
-          "author": "Mentor Publishers",
-          "image": "images/pre-primary/pre-primary-wells (6).jpg",
-          "price": 350
-        },
-        {
-          "id": 7,
-          "title": "Pre-Primary Book 7",
-          "author": "Longhorn Publishers",
-          "image": "images/pre-primary/pre-primary-wells (7).jpg",
-          "price": 350
-        },
-        {
-          "id": 8,
-          "title": "Pre-Primary Book 8",
-          "author": "Longhorn Publishers",
-          "image": "images/pre-primary/pre-primary-wells (8).jpg",
-          "price": 350
-        },
-        {
-          "id": 9,
-          "title": "Pre-Primary Book 9",
-          "author": "Mentor Publishers",
-          "image": "images/pre-primary/pre-primary-wells (9).jpg",
-          "price": 350
-        },
-        {
-          "id": 10,
-          "title": "Pre-Primary Book 10",
-          "author": "Mentor Publishers",
-          "image": "images/pre-primary/pre-primary-wells (10).jpg",
-          "price": 350
-        },
-        {
-          "id": 11,
-          "title": "Pre-Primary Book 11",
-          "author": "Longhorn Publishers",
-          "image": "images/pre-primary/pre-primary-wells (11).jpg",
-          "price": 350
-        },
-        {
-          "id": 12,
-          "title": "Pre-Primary Book 12",
-          "author": "Longhorn Publishers",
-          "image": "images/pre-primary/pre-primary-wells (12).jpg",
-          "price": 350
-        },
-        {
-          "id": 13,
-          "title": "Pre-Primary Book 13",
-          "author": "Mentor Publishers",
-          "image": "images/pre-primary/pre-primary-wells (13).jpg",
-          "price": 350
-        },
-        {
-          "id": 14,
-          "title": "Pre-Primary Book 14",
-          "author": "Mentor Publishers",
-          "image": "images/pre-primary/pre-primary-wells (14).jpg",
-          "price": 350
-        },
-        {
-          "id": 15,
-          "title": "Pre-Primary Book 15",
-          "author": "Longhorn Publishers",
-          "image": "images/pre-primary/pre-primary-wells (15).jpg",
-          "price": 350
-        },
-        {
-          "id": 16,
-          "title": "Pre-Primary Book 16",
-          "author": "Longhorn Publishers",
-          "image": "images/pre-primary/pre-primary-wells (16).jpg",
-          "price": 350
-        }
-      ],
-      "cbcPrimary": [
-        {
-          "id": 17,
-          "title": "CBC Primary Textbook 1",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-primary/cbc-primary-wells (1).jpg",
-          "price": 400
-        },
-        {
-          "id": 18,
-          "title": "CBC Primary Textbook 2",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-primary/cbc-primary-wells (2).jpg",
-          "price": 400
-        },
-        {
-          "id": 19,
-          "title": "CBC Primary Textbook 3",
-          "author": "Mentor Publishers",
-          "image": "images/cbc-primary/cbc-primary-wells (3).jpg",
-          "price": 400
-        },
-        {
-          "id": 20,
-          "title": "CBC Primary Textbook 4",
-          "author": "Mentor Publishers",
-          "image": "images/cbc-primary/cbc-primary-wells (4).jpg",
-          "price": 400
-        },
-        {
-          "id": 21,
-          "title": "CBC Primary Textbook 5",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-primary/cbc-primary-wells (5).jpg",
-          "price": 400
-        },
-        {
-          "id": 22,
-          "title": "CBC Primary Textbook 6",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-primary/cbc-primary-wells (6).jpg",
-          "price": 400
-        },
-        {
-          "id": 23,
-          "title": "CBC Primary Textbook 7",
-          "author": "Mentor Publishers",
-          "image": "images/cbc-primary/cbc-primary-wells (7).jpg",
-          "price": 400
-        },
-        {
-          "id": 24,
-          "title": "CBC Primary Textbook 8",
-          "author": "Mentor Publishers",
-          "image": "images/cbc-primary/cbc-primary-wells (8).jpg",
-          "price": 400
-        },
-        {
-          "id": 25,
-          "title": "CBC Primary Textbook 9",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-primary/cbc-primary-wells (9).jpg",
-          "price": 400
-        },
-        {
-          "id": 26,
-          "title": "CBC Primary Textbook 10",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-primary/cbc-primary-wells (10).jpg",
-          "price": 400
-        },
-        {
-          "id": 27,
-          "title": "CBC Primary Textbook 11",
-          "author": "Mentor Publishers",
-          "image": "images/cbc-primary/cbc-primary-wells (11).jpg",
-          "price": 400
-        },
-        {
-          "id": 28,
-          "title": "CBC Primary Textbook 12",
-          "author": "Mentor Publishers",
-          "image": "images/cbc-primary/cbc-primary-wells (12).jpg",
-          "price": 400
-        },
-        {
-          "id": 29,
-          "title": "CBC Primary Textbook 13",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-primary/cbc-primary-wells (13).jpg",
-          "price": 400
-        },
-        {
-          "id": 30,
-          "title": "CBC Primary Textbook 14",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-primary/cbc-primary-wells (14).jpg",
-          "price": 400
-        },
-        {
-          "id": 31,
-          "title": "CBC Primary Textbook 15",
-          "author": "Mentor Publishers",
-          "image": "images/cbc-primary/cbc-primary-wells (15).jpg",
-          "price": 400
-        },
-        {
-          "id": 32,
-          "title": "CBC Primary Textbook 16",
-          "author": "Mentor Publishers",
-          "image": "images/cbc-primary/cbc-primary-wells (16).jpg",
-          "price": 400
-        }
-      ],
-      "cbcJuniorSecondary": [
-        {
-          "id": 33,
-          "title": "CBC Junior Secondary Book 1",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (1).jpg",
-          "price": 600
-        },
-        {
-          "id": 34,
-          "title": "CBC Junior Secondary Book 2",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (2).jpg",
-          "price": 600
-        },
-        {
-          "id": 35,
-          "title": "CBC Junior Secondary Book 3",
-          "author": "Longhorn Publishers",
-          "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (3).jpg",
-          "price": 600
-        },
-        {
-          "id": 36,
-          "title": "CBC Junior Secondary Book 4",
-          "author": "Longhorn Publishers",
-          "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (4).jpg",
-          "price": 600
-        },
-        {
-          "id": 37,
-          "title": "CBC Junior Secondary Book 5",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (5).jpg",
-          "price": 600
-        },
-        {
-          "id": 38,
-          "title": "CBC Junior Secondary Book 6",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (6).jpg",
-          "price": 600
-        },
-        {
-          "id": 39,
-          "title": "CBC Junior Secondary Book 7",
-          "author": "Longhorn Publishers",
-          "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (7).jpg",
-          "price": 600
-        },
-        {
-          "id": 40,
-          "title": "CBC Junior Secondary Book 8",
-          "author": "Longhorn Publishers",
-          "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (8).jpg",
-          "price": 600
-        },
-        {
-          "id": 41,
-          "title": "CBC Junior Secondary Book 9",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (9).jpg",
-          "price": 600
-        },
-        {
-          "id": 42,
-          "title": "CBC Junior Secondary Book 10",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (10).jpg",
-          "price": 600
-        },
-        {
-          "id": 43,
-          "title": "CBC Junior Secondary Book 11",
-          "author": "Longhorn Publishers",
-          "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (11).jpg",
-          "price": 600
-        },
-        {
-          "id": 44,
-          "title": "CBC Junior Secondary Book 12",
-          "author": "Longhorn Publishers",
-          "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (12).jpg",
-          "price": 600
-        },
-        {
-          "id": 45,
-          "title": "CBC Junior Secondary Book 13",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (13).jpg",
-          "price": 600
-        },
-        {
-          "id": 46,
-          "title": "CBC Junior Secondary Book 14",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (14).jpg",
-          "price": 600
-        },
-        {
-          "id": 47,
-          "title": "CBC Junior Secondary Book 15",
-          "author": "Longhorn Publishers",
-          "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (15).jpg",
-          "price": 600
-        },
-        {
-          "id": 48,
-          "title": "CBC Junior Secondary Book 16",
-          "author": "Longhorn Publishers",
-          "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (16).jpg",
-          "price": 600
-        }
-      ],
-      "cbcSeniorSecondary": [
-        {
-          "id": 49,
-          "title": "CBC Senior Secondary Book 1",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (1).jpg",
-          "price": 800
-        },
-        {
-          "id": 50,
-          "title": "CBC Senior Secondary Book 2",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (2).jpg",
-          "price": 800
-        },
-        {
-          "id": 51,
-          "title": "CBC Senior Secondary Book 3",
-          "author": "Moran Publishers",
-          "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (3).jpg",
-          "price": 800
-        },
-        {
-          "id": 52,
-          "title": "CBC Senior Secondary Book 4",
-          "author": "Moran Publishers",
-          "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (4).jpg",
-          "price": 800
-        },
-        {
-          "id": 53,
-          "title": "CBC Senior Secondary Book 5",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (5).jpg",
-          "price": 800
-        },
-        {
-          "id": 54,
-          "title": "CBC Senior Secondary Book 6",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (6).jpg",
-          "price": 800
-        },
-        {
-          "id": 55,
-          "title": "CBC Senior Secondary Book 7",
-          "author": "Moran Publishers",
-          "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (7).jpg",
-          "price": 800
-        },
-        {
-          "id": 56,
-          "title": "CBC Senior Secondary Book 8",
-          "author": "Moran Publishers",
-          "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (8).jpg",
-          "price": 800
-        },
-        {
-          "id": 57,
-          "title": "CBC Senior Secondary Book 9",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (9).jpg",
-          "price": 800
-        },
-        {
-          "id": 58,
-          "title": "CBC Senior Secondary Book 10",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (10).jpg",
-          "price": 800
-        },
-        {
-          "id": 59,
-          "title": "CBC Senior Secondary Book 11",
-          "author": "Moran Publishers",
-          "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (11).jpg",
-          "price": 800
-        },
-        {
-          "id": 60,
-          "title": "CBC Senior Secondary Book 12",
-          "author": "Moran Publishers",
-          "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (12).jpg",
-          "price": 800
-        },
-        {
-          "id": 61,
-          "title": "CBC Senior Secondary Book 13",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (13).jpg",
-          "price": 800
-        },
-        {
-          "id": 62,
-          "title": "CBC Senior Secondary Book 14",
-          "author": "Spotlight Publishers",
-          "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (14).jpg",
-          "price": 800
-        },
-        {
-          "id": 63,
-          "title": "CBC Senior Secondary Book 15",
-          "author": "Moran Publishers",
-          "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (15).jpg",
-          "price": 800
-        },
-        {
-          "id": 64,
-          "title": "CBC Senior Secondary Book 16",
-          "author": "Moran Publishers",
-          "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (16).jpg",
-          "price": 800
-        }
-      ],
-      "Secondary844School": [
-        {
-          "id": 65,
-          "title": "844 Secondary Textbook 1",
-          "author": "Longhorn Publishers",
-          "image": "images/844-secondary-school/844-secondary-school-wells (1).jpg",
-          "price": 700
-        },
-        {
-          "id": 66,
-          "title": "844 Secondary Textbook 2",
-          "author": "Longhorn Publishers",
-          "image": "images/844-secondary-school/844-secondary-school-wells (2).jpg",
-          "price": 700
-        },
-        {
-          "id": 67,
-          "title": "844 Secondary Textbook 3",
-          "author": "Targeter Publishers",
-          "image": "images/844-secondary-school/844-secondary-school-wells (3).jpg",
-          "price": 700
-        },
-        {
-          "id": 68,
-          "title": "844 Secondary Textbook 4",
-          "author": "Targeter Publishers",
-          "image": "images/844-secondary-school/844-secondary-school-wells (4).jpg",
-          "price": 700
-        },
-        {
-          "id": 69,
-          "title": "844 Secondary Textbook 5",
-          "author": "Longhorn Publishers",
-          "image": "images/844-secondary-school/844-secondary-school-wells (5).jpg",
-          "price": 700
-        },
-        {
-          "id": 70,
-          "title": "844 Secondary Textbook 6",
-          "author": "Longhorn Publishers",
-          "image": "images/844-secondary-school/844-secondary-school-wells (6).jpg",
-          "price": 700
-        },
-        {
-          "id": 71,
-          "title": "844 Secondary Textbook 7",
-          "author": "Targeter Publishers",
-          "image": "images/844-secondary-school/844-secondary-school-wells (7).jpg",
-          "price": 700
-        },
-        {
-          "id": 72,
-          "title": "844 Secondary Textbook 8",
-          "author": "Targeter Publishers",
-          "image": "images/844-secondary-school/844-secondary-school-wells (8).jpg",
-          "price": 700
-        },
-        {
-          "id": 73,
-          "title": "844 Secondary Textbook 9",
-          "author": "Longhorn Publishers",
-          "image": "images/844-secondary-school/844-secondary-school-wells (9).jpg",
-          "price": 700
-        },
-        {
-          "id": 74,
-          "title": "844 Secondary Textbook 10",
-          "author": "Longhorn Publishers",
-          "image": "images/844-secondary-school/844-secondary-school-wells (10).jpg",
-          "price": 700
-        },
-        {
-          "id": 75,
-          "title": "844 Secondary Textbook 11",
-          "author": "Targeter Publishers",
-          "image": "images/844-secondary-school/844-secondary-school-wells (11).jpg",
-          "price": 700
-        },
-        {
-          "id": 76,
-          "title": "844 Secondary Textbook 12",
-          "author": "Targeter Publishers",
-          "image": "images/844-secondary-school/844-secondary-school-wells (12).jpg",
-          "price": 700
-        },
-        {
-          "id": 77,
-          "title": "844 Secondary Textbook 13",
-          "author": "Longhorn Publishers",
-          "image": "images/844-secondary-school/844-secondary-school-wells (13).jpg",
-          "price": 700
-        },
-        {
-          "id": 78,
-          "title": "844 Secondary Textbook 14",
-          "author": "Longhorn Publishers",
-          "image": "images/844-secondary-school/844-secondary-school-wells (14).jpg",
-          "price": 700
-        },
-        {
-          "id": 79,
-          "title": "844 Secondary Textbook 15",
-          "author": "Targeter Publishers",
-          "image": "images/844-secondary-school/844-secondary-school-wells (15).jpg",
-          "price": 700
-        },
-        {
-          "id": 80,
-          "title": "844 Secondary Textbook 16",
-          "author": "Targeter Publishers",
-          "image": "images/844-secondary-school/844-secondary-school-wells (16).jpg",
-          "price": 700
-        }
-      ],
-      "revisionBooks": [
-        {
-          "id": 81,
-          "title": "Revision Book 1",
-          "author": "Moran Publishers",
-          "image": "images/revision-books/revision-books-wells (1).jpg",
-          "price": 500
-        },
-        {
-          "id": 82,
-          "title": "Revision Book 2",
-          "author": "Moran Publishers",
-          "image": "images/revision-books/revision-books-wells (2).jpg",
-          "price": 500
-        },
-        {
-          "id": 83,
-          "title": "Revision Book 3",
-          "author": "Targeter Publishers",
-          "image": "images/revision-books/revision-books-wells (3).jpg",
-          "price": 500
-        },
-        {
-          "id": 84,
-          "title": "Revision Book 4",
-          "author": "Targeter Publishers",
-          "image": "images/revision-books/revision-books-wells (4).jpg",
-          "price": 500
-        },
-        {
-          "id": 85,
-          "title": "Revision Book 5",
-          "author": "Moran Publishers",
-          "image": "images/revision-books/revision-books-wells (5).jpg",
-          "price": 500
-        },
-        {
-          "id": 86,
-          "title": "Revision Book 6",
-          "author": "Moran Publishers",
-          "image": "images/revision-books/revision-books-wells (6).jpg",
-          "price": 500
-        },
-        {
-          "id": 87,
-          "title": "Revision Book 7",
-          "author": "Targeter Publishers",
-          "image": "images/revision-books/revision-books-wells (7).jpg",
-          "price": 500
-        },
-        {
-          "id": 88,
-          "title": "Revision Book 8",
-          "author": "Targeter Publishers",
-          "image": "images/revision-books/revision-books-wells (8).jpg",
-          "price": 500
-        },
-        {
-          "id": 89,
-          "title": "Revision Book 9",
-          "author": "Moran Publishers",
-          "image": "images/revision-books/revision-books-wells (9).jpg",
-          "price": 500
-        },
-        {
-          "id": 90,
-          "title": "Revision Book 10",
-          "author": "Moran Publishers",
-          "image": "images/revision-books/revision-books-wells (10).jpg",
-          "price": 500
-        },
-        {
-          "id": 91,
-          "title": "Revision Book 11",
-          "author": "Targeter Publishers",
-          "image": "images/revision-books/revision-books-wells (11).jpg",
-          "price": 500
-        },
-        {
-          "id": 92,
-          "title": "Revision Book 12",
-          "author": "Targeter Publishers",
-          "image": "images/revision-books/revision-books-wells (12).jpg",
-          "price": 500
-        },
-        {
-          "id": 93,
-          "title": "Revision Book 13",
-          "author": "Moran Publishers",
-          "image": "images/revision-books/revision-books-wells (13).jpg",
-          "price": 500
-        },
-        {
-          "id": 94,
-          "title": "Revision Book 14",
-          "author": "Moran Publishers",
-          "image": "images/revision-books/revision-books-wells (14).jpg",
-          "price": 500
-        },
-        {
-          "id": 95,
-          "title": "Revision Book 15",
-          "author": "Targeter Publishers",
-          "image": "images/revision-books/revision-books-wells (15).jpg",
-          "price": 500
-        },
-        {
-          "id": 96,
-          "title": "Revision Book 16",
-          "author": "Targeter Publishers",
-          "image": "images/revision-books/revision-books-wells (16).jpg",
-          "price": 500
-        }
-      ],
-      "ReferenceBooks": [
-        {
-          "id": 97,
-          "title": "Reference Book 1",
-          "author": "Longhorn Publishers",
-          "image": "images/reference-books/reference-books-wells (1).jpg",
-          "price": 1000
-        },
-        {
-          "id": 98,
-          "title": "Reference Book 2",
-          "author": "Longhorn Publishers",
-          "image": "images/reference-books/reference-books-wells (2).jpg",
-          "price": 1000
-        },
-        {
-          "id": 99,
-          "title": "Reference Book 3",
-          "author": "Oxford Publishers",
-          "image": "images/reference-books/reference-books-wells (3).jpg",
-          "price": 1000
-        },
-        {
-          "id": 100,
-          "title": "Reference Book 4",
-          "author": "Oxford Publishers",
-          "image": "images/reference-books/reference-books-wells (4).jpg",
-          "price": 1000
-        },
-        {
-          "id": 101,
-          "title": "Reference Book 5",
-          "author": "Longhorn Publishers",
-          "image": "images/reference-books/reference-books-wells (5).jpg",
-          "price": 1000
-        },
-        {
-          "id": 102,
-          "title": "Reference Book 6",
-          "author": "Longhorn Publishers",
-          "image": "images/reference-books/reference-books-wells (6).jpg",
-          "price": 1000
-        },
-        {
-          "id": 103,
-          "title": "Reference Book 7",
-          "author": "Oxford Publishers",
-          "image": "images/reference-books/reference-books-wells (7).jpg",
-          "price": 1000
-        },
-        {
-          "id": 104,
-          "title": "Reference Book 8",
-          "author": "Oxford Publishers",
-          "image": "images/reference-books/reference-books-wells (8).jpg",
-          "price": 1000
-        },
-        {
-          "id": 105,
-          "title": "Reference Book 9",
-          "author": "Longhorn Publishers",
-          "image": "images/reference-books/reference-books-wells (9).jpg",
-          "price": 1000
-        },
-        {
-          "id": 106,
-          "title": "Reference Book 10",
-          "author": "Longhorn Publishers",
-          "image": "images/reference-books/reference-books-wells (10).jpg",
-          "price": 1000
-        },
-        {
-          "id": 107,
-          "title": "Reference Book 11",
-          "author": "Oxford Publishers",
-          "image": "images/reference-books/reference-books-wells (11).jpg",
-          "price": 1000
-        },
-        {
-          "id": 108,
-          "title": "Reference Book 12",
-          "author": "Oxford Publishers",
-          "image": "images/reference-books/reference-books-wells (12).jpg",
-          "price": 1000
-        },
-        {
-          "id": 109,
-          "title": "Reference Book 13",
-          "author": "Longhorn Publishers",
-          "image": "images/reference-books/reference-books-wells (13).jpg",
-          "price": 1000
-        },
-        {
-          "id": 110,
-          "title": "Reference Book 14",
-          "author": "Longhorn Publishers",
-          "image": "images/reference-books/reference-books-wells (14).jpg",
-          "price": 1000
-        },
-        {
-          "id": 111,
-          "title": "Reference Book 15",
-          "author": "Oxford Publishers",
-          "image": "images/reference-books/reference-books-wells (15).jpg",
-          "price": 1000
-        },
-        {
-          "id": 112,
-          "title": "Reference Book 16",
-          "author": "Oxford Publishers",
-          "image": "images/reference-books/reference-books-wells (16).jpg",
-          "price": 1000
-        }
-      ],
-      "professionalBooks": [
-        {
-          "id": 113,
-          "title": "Professional Book 1",
-          "author": "KASNEB",
-          "image": "images/professional-books/professional-books-wells (1).png",
-          "price": 1200
-        },
-        {
-          "id": 114,
-          "title": "Professional Book 2",
-          "author": "KASNEB",
-          "image": "images/professional-books/professional-books-wells (2).png",
-          "price": 1200
-        },
-        {
-          "id": 115,
-          "title": "Professional Book 3",
-          "author": "Strathmore University",
-          "image": "images/professional-books/professional-books-wells (3).png",
-          "price": 1200
-        },
-        {
-          "id": 116,
-          "title": "Professional Book 4",
-          "author": "Strathmore University",
-          "image": "images/professional-books/professional-books-wells (4).png",
-          "price": 1200
-        },
-        {
-          "id": 117,
-          "title": "Professional Book 5",
-          "author": "KASNEB",
-          "image": "images/professional-books/professional-books-wells (5).png",
-          "price": 1200
-        },
-        {
-          "id": 118,
-          "title": "Professional Book 6",
-          "author": "KASNEB",
-          "image": "images/professional-books/professional-books-wells (6).png",
-          "price": 1200
-        },
-        {
-          "id": 119,
-          "title": "Professional Book 7",
-          "author": "Strathmore University",
-          "image": "images/professional-books/professional-books-wells (7).png",
-          "price": 1200
-        },
-        {
-          "id": 120,
-          "title": "Professional Book 8",
-          "author": "Strathmore University",
-          "image": "images/professional-books/professional-books-wells (8).png",
-          "price": 1200
-        },
-        {
-          "id": 121,
-          "title": "Professional Book 9",
-          "author": "KASNEB",
-          "image": "images/professional-books/professional-books-wells (9).png",
-          "price": 1200
-        },
-        {
-          "id": 122,
-          "title": "Professional Book 10",
-          "author": "KASNEB",
-          "image": "images/professional-books/professional-books-wells (10).png",
-          "price": 1200
-        },
-        {
-          "id": 123,
-          "title": "Professional Book 11",
-          "author": "Strathmore University",
-          "image": "images/professional-books/professional-books-wells (11).png",
-          "price": 1200
-        },
-        {
-          "id": 124,
-          "title": "Professional Book 12",
-          "author": "Strathmore University",
-          "image": "images/professional-books/professional-books-wells (12).png",
-          "price": 1200
-        },
-        {
-          "id": 125,
-          "title": "Professional Book 13",
-          "author": "KASNEB",
-          "image": "images/professional-books/professional-books-wells (13).png",
-          "price": 1200
-        },
-        {
-          "id": 126,
-          "title": "Professional Book 14",
-          "author": "KASNEB",
-          "image": "images/professional-books/professional-books-wells (14).png",
-          "price": 1200
-        },
-        {
-          "id": 127,
-          "title": "Professional Book 15",
-          "author": "Strathmore University",
-          "image": "images/professional-books/professional-books-wells (15).png",
-          "price": 1200
-        },
-        {
-          "id": 128,
-          "title": "Professional Book 16",
-          "author": "Strathmore University",
-          "image": "images/professional-books/professional-books-wells (16).png",
-          "price": 1200
-        }
+          "prePrimaryECDE": [
+          {
+              "id": "1a",
+              "title": "Pre-Primary Book 1",
+              "author": "Mentor Publishers",
+              "image": "images/pre-primary/pre-primary-wells (1).jpg",
+              "price": 350
+          },
+          {
+              "id": "2a",
+              "title": "Pre-Primary Book 2",
+              "author": "Mentor Publishers",
+              "image": "images/pre-primary/pre-primary-wells (2).jpg",
+              "price": 350
+          },
+          {
+              "id": "3a",
+              "title": "Pre-Primary Book 3",
+              "author": "Longhorn Publishers",
+              "image": "images/pre-primary/pre-primary-wells (3).jpg",
+              "price": 350
+          },
+          {
+              "id": "4a",
+              "title": "Pre-Primary Book 4",
+              "author": "Longhorn Publishers",
+              "image": "images/pre-primary/pre-primary-wells (4).jpg",
+              "price": 350
+          },
+          {
+              "id": "5a",
+              "title": "Pre-Primary Book 5",
+              "author": "Mentor Publishers",
+              "image": "images/pre-primary/pre-primary-wells (5).jpg",
+              "price": 350
+          },
+          {
+              "id": "6a",
+              "title": "Pre-Primary Book 6",
+              "author": "Mentor Publishers",
+              "image": "images/pre-primary/pre-primary-wells (6).jpg",
+              "price": 350
+          },
+          {
+              "id": "7a",
+              "title": "Pre-Primary Book 7",
+              "author": "Longhorn Publishers",
+              "image": "images/pre-primary/pre-primary-wells (7).jpg",
+              "price": 350
+          },
+          {
+              "id": "8a",
+              "title": "Pre-Primary Book 8",
+              "author": "Longhorn Publishers",
+              "image": "images/pre-primary/pre-primary-wells (8).jpg",
+              "price": 350
+          },
+          {
+              "id": "9a",
+              "title": "Pre-Primary Book 9",
+              "author": "Mentor Publishers",
+              "image": "images/pre-primary/pre-primary-wells (9).jpg",
+              "price": 350
+          },
+          {
+              "id": "10a",
+              "title": "Pre-Primary Book 10",
+              "author": "Mentor Publishers",
+              "image": "images/pre-primary/pre-primary-wells (10).jpg",
+              "price": 350
+          },
+          {
+              "id": "11a",
+              "title": "Pre-Primary Book 11",
+              "author": "Longhorn Publishers",
+              "image": "images/pre-primary/pre-primary-wells (11).jpg",
+              "price": 350
+          },
+          {
+              "id": "12a",
+              "title": "Pre-Primary Book 12",
+              "author": "Longhorn Publishers",
+              "image": "images/pre-primary/pre-primary-wells (12).jpg",
+              "price": 350
+          },
+          {
+              "id": "13a",
+              "title": "Pre-Primary Book 13",
+              "author": "Mentor Publishers",
+              "image": "images/pre-primary/pre-primary-wells (13).jpg",
+              "price": 350
+          },
+          {
+              "id": "14a",
+              "title": "Pre-Primary Book 14",
+              "author": "Mentor Publishers",
+              "image": "images/pre-primary/pre-primary-wells (14).jpg",
+              "price": 350
+          },
+          {
+              "id": "15a",
+              "title": "Pre-Primary Book 15",
+              "author": "Longhorn Publishers",
+              "image": "images/pre-primary/pre-primary-wells (15).jpg",
+              "price": 350
+          },
+          {
+              "id": "16a",
+              "title": "Pre-Primary Book 16",
+              "author": "Longhorn Publishers",
+              "image": "images/pre-primary/pre-primary-wells (16).jpg",
+              "price": 350
+          }
       ]
+      ,
+   "cbcPrimary": [
+    {
+        "id": "17a",
+        "title": "CBC Primary Textbook 1",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-primary/cbc-primary-wells (1).jpg",
+        "price": 400
+    },
+    {
+        "id": "18a",
+        "title": "CBC Primary Textbook 2",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-primary/cbc-primary-wells (2).jpg",
+        "price": 400
+    },
+    {
+        "id": "19a",
+        "title": "CBC Primary Textbook 3",
+        "author": "Mentor Publishers",
+        "image": "images/cbc-primary/cbc-primary-wells (3).jpg",
+        "price": 400
+    },
+    {
+        "id": "20a",
+        "title": "CBC Primary Textbook 4",
+        "author": "Mentor Publishers",
+        "image": "images/cbc-primary/cbc-primary-wells (4).jpg",
+        "price": 400
+    },
+    {
+        "id": "21a",
+        "title": "CBC Primary Textbook 5",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-primary/cbc-primary-wells (5).jpg",
+        "price": 400
+    },
+    {
+        "id": "22a",
+        "title": "CBC Primary Textbook 6",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-primary/cbc-primary-wells (6).jpg",
+        "price": 400
+    },
+    {
+        "id": "23a",
+        "title": "CBC Primary Textbook 7",
+        "author": "Mentor Publishers",
+        "image": "images/cbc-primary/cbc-primary-wells (7).jpg",
+        "price": 400
+    },
+    {
+        "id": "24a",
+        "title": "CBC Primary Textbook 8",
+        "author": "Mentor Publishers",
+        "image": "images/cbc-primary/cbc-primary-wells (8).jpg",
+        "price": 400
+    },
+    {
+        "id": "25a",
+        "title": "CBC Primary Textbook 9",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-primary/cbc-primary-wells (9).jpg",
+        "price": 400
+    },
+    {
+        "id": "26a",
+        "title": "CBC Primary Textbook 10",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-primary/cbc-primary-wells (10).jpg",
+        "price": 400
+    },
+    {
+        "id": "27a",
+        "title": "CBC Primary Textbook 11",
+        "author": "Mentor Publishers",
+        "image": "images/cbc-primary/cbc-primary-wells (11).jpg",
+        "price": 400
+    },
+    {
+        "id": "28a",
+        "title": "CBC Primary Textbook 12",
+        "author": "Mentor Publishers",
+        "image": "images/cbc-primary/cbc-primary-wells (12).jpg",
+        "price": 400
+    },
+    {
+        "id": "29a",
+        "title": "CBC Primary Textbook 13",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-primary/cbc-primary-wells (13).jpg",
+        "price": 400
+    },
+    {
+        "id": "30a",
+        "title": "CBC Primary Textbook 14",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-primary/cbc-primary-wells (14).jpg",
+        "price": 400
+    },
+    {
+        "id": "31a",
+        "title": "CBC Primary Textbook 15",
+        "author": "Mentor Publishers",
+        "image": "images/cbc-primary/cbc-primary-wells (15).jpg",
+        "price": 400
+    },
+    {
+        "id": "32a",
+        "title": "CBC Primary Textbook 16",
+        "author": "Mentor Publishers",
+        "image": "images/cbc-primary/cbc-primary-wells (16).jpg",
+        "price": 400
+    }
+]
+,
+    "cbcJuniorSecondary": [
+    {
+        "id": "33a",
+        "title": "CBC Junior Secondary Book 1",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (1).jpg",
+        "price": 600
+    },
+    {
+        "id": "34a",
+        "title": "CBC Junior Secondary Book 2",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (2).jpg",
+        "price": 600
+    },
+    {
+        "id": "35a",
+        "title": "CBC Junior Secondary Book 3",
+        "author": "Longhorn Publishers",
+        "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (3).jpg",
+        "price": 600
+    },
+    {
+        "id": "36a",
+        "title": "CBC Junior Secondary Book 4",
+        "author": "Longhorn Publishers",
+        "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (4).jpg",
+        "price": 600
+    },
+    {
+        "id": "37a",
+        "title": "CBC Junior Secondary Book 5",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (5).jpg",
+        "price": 600
+    },
+    {
+        "id": "38a",
+        "title": "CBC Junior Secondary Book 6",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (6).jpg",
+        "price": 600
+    },
+    {
+        "id": "39a",
+        "title": "CBC Junior Secondary Book 7",
+        "author": "Longhorn Publishers",
+        "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (7).jpg",
+        "price": 600
+    },
+    {
+        "id": "40a",
+        "title": "CBC Junior Secondary Book 8",
+        "author": "Longhorn Publishers",
+        "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (8).jpg",
+        "price": 600
+    },
+    {
+        "id": "41a",
+        "title": "CBC Junior Secondary Book 9",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (9).jpg",
+        "price": 600
+    },
+    {
+        "id": "42a",
+        "title": "CBC Junior Secondary Book 10",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (10).jpg",
+        "price": 600
+    },
+    {
+        "id": "43a",
+        "title": "CBC Junior Secondary Book 11",
+        "author": "Longhorn Publishers",
+        "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (11).jpg",
+        "price": 600
+    },
+    {
+        "id": "44a",
+        "title": "CBC Junior Secondary Book 12",
+        "author": "Longhorn Publishers",
+        "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (12).jpg",
+        "price": 600
+    },
+    {
+        "id": "45a",
+        "title": "CBC Junior Secondary Book 13",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (13).jpg",
+        "price": 600
+    },
+    {
+        "id": "46a",
+        "title": "CBC Junior Secondary Book 14",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (14).jpg",
+        "price": 600
+    },
+    {
+        "id": "47a",
+        "title": "CBC Junior Secondary Book 15",
+        "author": "Longhorn Publishers",
+        "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (15).jpg",
+        "price": 600
+    },
+    {
+        "id": "48a",
+        "title": "CBC Junior Secondary Book 16",
+        "author": "Longhorn Publishers",
+        "image": "images/cbc-junior-secondary/cbc-junior-secondary-wells (16).jpg",
+        "price": 600
+    }
+]
+,
+      "cbcSeniorSecondary": [
+    {
+        "id": "49a",
+        "title": "CBC Senior Secondary Book 1",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (1).jpg",
+        "price": 800
+    },
+    {
+        "id": "50a",
+        "title": "CBC Senior Secondary Book 2",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (2).jpg",
+        "price": 800
+    },
+    {
+        "id": "51a",
+        "title": "CBC Senior Secondary Book 3",
+        "author": "Moran Publishers",
+        "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (3).jpg",
+        "price": 800
+    },
+    {
+        "id": "52a",
+        "title": "CBC Senior Secondary Book 4",
+        "author": "Moran Publishers",
+        "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (4).jpg",
+        "price": 800
+    },
+    {
+        "id": "53a",
+        "title": "CBC Senior Secondary Book 5",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (5).jpg",
+        "price": 800
+    },
+    {
+        "id": "54a",
+        "title": "CBC Senior Secondary Book 6",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (6).jpg",
+        "price": 800
+    },
+    {
+        "id": "55a",
+        "title": "CBC Senior Secondary Book 7",
+        "author": "Moran Publishers",
+        "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (7).jpg",
+        "price": 800
+    },
+    {
+        "id": "56a",
+        "title": "CBC Senior Secondary Book 8",
+        "author": "Moran Publishers",
+        "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (8).jpg",
+        "price": 800
+    },
+    {
+        "id": "57a",
+        "title": "CBC Senior Secondary Book 9",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (9).jpg",
+        "price": 800
+    },
+    {
+        "id": "58a",
+        "title": "CBC Senior Secondary Book 10",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (10).jpg",
+        "price": 800
+    },
+    {
+        "id": "59a",
+        "title": "CBC Senior Secondary Book 11",
+        "author": "Moran Publishers",
+        "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (11).jpg",
+        "price": 800
+    },
+    {
+        "id": "60a",
+        "title": "CBC Senior Secondary Book 12",
+        "author": "Moran Publishers",
+        "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (12).jpg",
+        "price": 800
+    },
+    {
+        "id": "61a",
+        "title": "CBC Senior Secondary Book 13",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (13).jpg",
+        "price": 800
+    },
+    {
+        "id": "62a",
+        "title": "CBC Senior Secondary Book 14",
+        "author": "Spotlight Publishers",
+        "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (14).jpg",
+        "price": 800
+    },
+    {
+        "id": "63a",
+        "title": "CBC Senior Secondary Book 15",
+        "author": "Moran Publishers",
+        "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (15).jpg",
+        "price": 800
+    },
+    {
+        "id": "64a",
+        "title": "CBC Senior Secondary Book 16",
+        "author": "Moran Publishers",
+        "image": "images/cbc-senior-secondary/cbc-senior-secondary-wells (16).jpg",
+        "price": 800
+    }
+]
+,
+      "Secondary844School": [
+    {
+        "id": "65a",
+        "title": "844 Secondary Textbook 1",
+        "author": "Longhorn Publishers",
+        "image": "images/844-secondary-school/844-secondary-school-wells (1).jpg",
+        "price": 700
+    },
+    {
+        "id": "66a",
+        "title": "844 Secondary Textbook 2",
+        "author": "Longhorn Publishers",
+        "image": "images/844-secondary-school/844-secondary-school-wells (2).jpg",
+        "price": 700
+    },
+    {
+        "id": "67a",
+        "title": "844 Secondary Textbook 3",
+        "author": "Targeter Publishers",
+        "image": "images/844-secondary-school/844-secondary-school-wells (3).jpg",
+        "price": 700
+    },
+    {
+        "id": "68a",
+        "title": "844 Secondary Textbook 4",
+        "author": "Targeter Publishers",
+        "image": "images/844-secondary-school/844-secondary-school-wells (4).jpg",
+        "price": 700
+    },
+    {
+        "id": "69a",
+        "title": "844 Secondary Textbook 5",
+        "author": "Longhorn Publishers",
+        "image": "images/844-secondary-school/844-secondary-school-wells (5).jpg",
+        "price": 700
+    },
+    {
+        "id": "70a",
+        "title": "844 Secondary Textbook 6",
+        "author": "Longhorn Publishers",
+        "image": "images/844-secondary-school/844-secondary-school-wells (6).jpg",
+        "price": 700
+    },
+    {
+        "id": "71a",
+        "title": "844 Secondary Textbook 7",
+        "author": "Targeter Publishers",
+        "image": "images/844-secondary-school/844-secondary-school-wells (7).jpg",
+        "price": 700
+    },
+    {
+        "id": "72a",
+        "title": "844 Secondary Textbook 8",
+        "author": "Targeter Publishers",
+        "image": "images/844-secondary-school/844-secondary-school-wells (8).jpg",
+        "price": 700
+    },
+    {
+        "id": "73a",
+        "title": "844 Secondary Textbook 9",
+        "author": "Longhorn Publishers",
+        "image": "images/844-secondary-school/844-secondary-school-wells (9).jpg",
+        "price": 700
+    },
+    {
+        "id": "74a",
+        "title": "844 Secondary Textbook 10",
+        "author": "Longhorn Publishers",
+        "image": "images/844-secondary-school/844-secondary-school-wells (10).jpg",
+        "price": 700
+    },
+    {
+        "id": "75a",
+        "title": "844 Secondary Textbook 11",
+        "author": "Targeter Publishers",
+        "image": "images/844-secondary-school/844-secondary-school-wells (11).jpg",
+        "price": 700
+    },
+    {
+        "id": "76a",
+        "title": "844 Secondary Textbook 12",
+        "author": "Targeter Publishers",
+        "image": "images/844-secondary-school/844-secondary-school-wells (12).jpg",
+        "price": 700
+    },
+    {
+        "id": "77a",
+        "title": "844 Secondary Textbook 13",
+        "author": "Longhorn Publishers",
+        "image": "images/844-secondary-school/844-secondary-school-wells (13).jpg",
+        "price": 700
+    },
+    {
+        "id": "78a",
+        "title": "844 Secondary Textbook 14",
+        "author": "Longhorn Publishers",
+        "image": "images/844-secondary-school/844-secondary-school-wells (14).jpg",
+        "price": 700
+    },
+    {
+        "id": "79a",
+        "title": "844 Secondary Textbook 15",
+        "author": "Targeter Publishers",
+        "image": "images/844-secondary-school/844-secondary-school-wells (15).jpg",
+        "price": 700
+    },
+    {
+        "id": "80a",
+        "title": "844 Secondary Textbook 16",
+        "author": "Targeter Publishers",
+        "image": "images/844-secondary-school/844-secondary-school-wells (16).jpg",
+        "price": 700
+    }
+]
+,
+      "revisionBooks": [
+    {
+        "id": "81a",
+        "title": "Revision Book 1",
+        "author": "Moran Publishers",
+        "image": "images/revision-books/revision-books-wells (1).jpg",
+        "price": 500
+    },
+    {
+        "id": "82a",
+        "title": "Revision Book 2",
+        "author": "Moran Publishers",
+        "image": "images/revision-books/revision-books-wells (2).jpg",
+        "price": 500
+    },
+    {
+        "id": "83a",
+        "title": "Revision Book 3",
+        "author": "Targeter Publishers",
+        "image": "images/revision-books/revision-books-wells (3).jpg",
+        "price": 500
+    },
+    {
+        "id": "84a",
+        "title": "Revision Book 4",
+        "author": "Targeter Publishers",
+        "image": "images/revision-books/revision-books-wells (4).jpg",
+        "price": 500
+    },
+    {
+        "id": "85a",
+        "title": "Revision Book 5",
+        "author": "Moran Publishers",
+        "image": "images/revision-books/revision-books-wells (5).jpg",
+        "price": 500
+    },
+    {
+        "id": "86a",
+        "title": "Revision Book 6",
+        "author": "Moran Publishers",
+        "image": "images/revision-books/revision-books-wells (6).jpg",
+        "price": 500
+    },
+    {
+        "id": "87a",
+        "title": "Revision Book 7",
+        "author": "Targeter Publishers",
+        "image": "images/revision-books/revision-books-wells (7).jpg",
+        "price": 500
+    },
+    {
+        "id": "88a",
+        "title": "Revision Book 8",
+        "author": "Targeter Publishers",
+        "image": "images/revision-books/revision-books-wells (8).jpg",
+        "price": 500
+    },
+    {
+        "id": "89a",
+        "title": "Revision Book 9",
+        "author": "Moran Publishers",
+        "image": "images/revision-books/revision-books-wells (9).jpg",
+        "price": 500
+    },
+    {
+        "id": "90a",
+        "title": "Revision Book 10",
+        "author": "Moran Publishers",
+        "image": "images/revision-books/revision-books-wells (10).jpg",
+        "price": 500
+    },
+    {
+        "id": "91a",
+        "title": "Revision Book 11",
+        "author": "Targeter Publishers",
+        "image": "images/revision-books/revision-books-wells (11).jpg",
+        "price": 500
+    },
+    {
+        "id": "92a",
+        "title": "Revision Book 12",
+        "author": "Targeter Publishers",
+        "image": "images/revision-books/revision-books-wells (12).jpg",
+        "price": 500
+    },
+    {
+        "id": "93a",
+        "title": "Revision Book 13",
+        "author": "Moran Publishers",
+        "image": "images/revision-books/revision-books-wells (13).jpg",
+        "price": 500
+    },
+    {
+        "id": "94a",
+        "title": "Revision Book 14",
+        "author": "Moran Publishers",
+        "image": "images/revision-books/revision-books-wells (14).jpg",
+        "price": 500
+    },
+    {
+        "id": "95a",
+        "title": "Revision Book 15",
+        "author": "Targeter Publishers",
+        "image": "images/revision-books/revision-books-wells (15).jpg",
+        "price": 500
+    },
+    {
+        "id": "96a",
+        "title": "Revision Book 16",
+        "author": "Targeter Publishers",
+        "image": "images/revision-books/revision-books-wells (16).jpg",
+        "price": 500
+    }
+]
+,
+      "ReferenceBooks": [
+    {
+        "id": "97a",
+        "title": "Reference Book 1",
+        "author": "Longhorn Publishers",
+        "image": "images/reference-books/reference-books-wells (1).jpg",
+        "price": 1000
+    },
+    {
+        "id": "98a",
+        "title": "Reference Book 2",
+        "author": "Longhorn Publishers",
+        "image": "images/reference-books/reference-books-wells (2).jpg",
+        "price": 1000
+    },
+    {
+        "id": "99a",
+        "title": "Reference Book 3",
+        "author": "Oxford Publishers",
+        "image": "images/reference-books/reference-books-wells (3).jpg",
+        "price": 1000
+    },
+    {
+        "id": "100a",
+        "title": "Reference Book 4",
+        "author": "Oxford Publishers",
+        "image": "images/reference-books/reference-books-wells (4).jpg",
+        "price": 1000
+    },
+    {
+        "id": "1b",
+        "title": "Reference Book 5",
+        "author": "Longhorn Publishers",
+        "image": "images/reference-books/reference-books-wells (5).jpg",
+        "price": 1000
+    },
+    {
+        "id": "2b",
+        "title": "Reference Book 6",
+        "author": "Longhorn Publishers",
+        "image": "images/reference-books/reference-books-wells (6).jpg",
+        "price": 1000
+    },
+    {
+        "id": "3b",
+        "title": "Reference Book 7",
+        "author": "Oxford Publishers",
+        "image": "images/reference-books/reference-books-wells (7).jpg",
+        "price": 1000
+    },
+    {
+        "id": "4b",
+        "title": "Reference Book 8",
+        "author": "Oxford Publishers",
+        "image": "images/reference-books/reference-books-wells (8).jpg",
+        "price": 1000
+    },
+    {
+        "id": "5b",
+        "title": "Reference Book 9",
+        "author": "Longhorn Publishers",
+        "image": "images/reference-books/reference-books-wells (9).jpg",
+        "price": 1000
+    },
+    {
+        "id": "6b",
+        "title": "Reference Book 10",
+        "author": "Longhorn Publishers",
+        "image": "images/reference-books/reference-books-wells (10).jpg",
+        "price": 1000
+    },
+    {
+        "id": "7b",
+        "title": "Reference Book 11",
+        "author": "Oxford Publishers",
+        "image": "images/reference-books/reference-books-wells (11).jpg",
+        "price": 1000
+    },
+    {
+        "id": "8b",
+        "title": "Reference Book 12",
+        "author": "Oxford Publishers",
+        "image": "images/reference-books/reference-books-wells (12).jpg",
+        "price": 1000
+    },
+    {
+        "id": "9b",
+        "title": "Reference Book 13",
+        "author": "Longhorn Publishers",
+        "image": "images/reference-books/reference-books-wells (13).jpg",
+        "price": 1000
+    },
+    {
+        "id": "10b",
+        "title": "Reference Book 14",
+        "author": "Longhorn Publishers",
+        "image": "images/reference-books/reference-books-wells (14).jpg",
+        "price": 1000
+    },
+    {
+        "id": "11b",
+        "title": "Reference Book 15",
+        "author": "Oxford Publishers",
+        "image": "images/reference-books/reference-books-wells (15).jpg",
+        "price": 1000
+    },
+    {
+        "id": "12b",
+        "title": "Reference Book 16",
+        "author": "Oxford Publishers",
+        "image": "images/reference-books/reference-books-wells (16).jpg",
+        "price": 1000
+    }
+]
+,
+      "professionalBooks": [
+    {
+        "id": "13b",
+        "title": "Professional Book 1",
+        "author": "KASNEB",
+        "image": "images/professional-books/professional-books-wells (1).png",
+        "price": 1200
+    },
+    {
+        "id": "14b",
+        "title": "Professional Book 2",
+        "author": "KASNEB",
+        "image": "images/professional-books/professional-books-wells (2).png",
+        "price": 1200
+    },
+    {
+        "id": "15b",
+        "title": "Professional Book 3",
+        "author": "Strathmore University",
+        "image": "images/professional-books/professional-books-wells (3).png",
+        "price": 1200
+    },
+    {
+        "id": "16b",
+        "title": "Professional Book 4",
+        "author": "Strathmore University",
+        "image": "images/professional-books/professional-books-wells (4).png",
+        "price": 1200
+    },
+    {
+        "id": "17b",
+        "title": "Professional Book 5",
+        "author": "KASNEB",
+        "image": "images/professional-books/professional-books-wells (5).png",
+        "price": 1200
+    },
+    {
+        "id": "18b",
+        "title": "Professional Book 6",
+        "author": "KASNEB",
+        "image": "images/professional-books/professional-books-wells (6).png",
+        "price": 1200
+    },
+    {
+        "id": "19b",
+        "title": "Professional Book 7",
+        "author": "Strathmore University",
+        "image": "images/professional-books/professional-books-wells (7).png",
+        "price": 1200
+    },
+    {
+        "id": "20b",
+        "title": "Professional Book 8",
+        "author": "Strathmore University",
+        "image": "images/professional-books/professional-books-wells (8).png",
+        "price": 1200
+    },
+    {
+        "id": "21b",
+        "title": "Professional Book 9",
+        "author": "KASNEB",
+        "image": "images/professional-books/professional-books-wells (9).png",
+        "price": 1200
+    },
+    {
+        "id": "22b",
+        "title": "Professional Book 10",
+        "author": "KASNEB",
+        "image": "images/professional-books/professional-books-wells (10).png",
+        "price": 1200
+    },
+    {
+        "id": "23b",
+        "title": "Professional Book 11",
+        "author": "Strathmore University",
+        "image": "images/professional-books/professional-books-wells (11).png",
+        "price": 1200
+    },
+    {
+        "id": "24b",
+        "title": "Professional Book 12",
+        "author": "Strathmore University",
+        "image": "images/professional-books/professional-books-wells (12).png",
+        "price": 1200
+    },
+    {
+        "id": "25b",
+        "title": "Professional Book 13",
+        "author": "KASNEB",
+        "image": "images/professional-books/professional-books-wells (13).png",
+        "price": 1200
+    },
+    {
+        "id": "26b",
+        "title": "Professional Book 14",
+        "author": "KASNEB",
+        "image": "images/professional-books/professional-books-wells (14).png",
+        "price": 1200
+    },
+    {
+        "id": "27b",
+        "title": "Professional Book 15",
+        "author": "Strathmore University",
+        "image": "images/professional-books/professional-books-wells (15).png",
+        "price": 1200
+    },
+    {
+        "id": "28b",
+        "title": "Professional Book 16",
+        "author": "Strathmore University",
+        "image": "images/professional-books/professional-books-wells (16).png",
+        "price": 1200
+    }
+]
+
     }
   }
