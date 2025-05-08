@@ -1,0 +1,543 @@
+{
+    "stationery": {
+      
+        "schoolEssentials": [
+        {
+            "id": "101a",
+            "title": "General School Item",
+            "price": 50,
+            "image": "images/school-items/school-items-mtwapa-books-centre (1).jpg",
+            "category": "School Essentials"
+        },
+        {
+            "id": "102a",
+            "title": "General School Item",
+            "price": 50,
+            "image": "images/school-items/school-items-mtwapa-books-centre (2).jpg",
+            "category": "School Essentials"
+        },
+        {
+            "id": "103a",
+            "title": "General School Item",
+            "price": 50,
+            "image": "images/school-items/school-items-mtwapa-books-centre (3).jpg",
+            "category": "School Essentials"
+        },
+        {
+            "id": "104a",
+            "title": "General School Item",
+            "price": 50,
+            "image": "images/school-items/school-items-mtwapa-books-centre (4).jpg",
+            "category": "School Essentials"
+        },
+        {
+            "id": "105a",
+            "title": "General School Item",
+            "price": 50,
+            "image": "images/school-items/school-items-mtwapa-books-centre (5).jpg",
+            "category": "School Essentials"
+        },
+        {
+            "id": "106a",
+            "title": "General School Item",
+            "price": 50,
+            "image": "images/school-items/school-items-mtwapa-books-centre (6).jpg",
+            "category": "School Essentials"
+        },
+        {
+            "id": "107a",
+            "title": "General School Item",
+            "price": 50,
+            "image": "images/school-items/school-items-mtwapa-books-centre (7).jpg",
+            "category": "School Essentials"
+        },
+        {
+            "id": "108a",
+            "title": "General School Item",
+            "price": 50,
+            "image": "images/school-items/school-items-mtwapa-books-centre (8).jpg",
+            "category": "School Essentials"
+        },
+        {
+            "id": "109a",
+            "title": "General School Item",
+            "price": 50,
+            "image": "images/school-items/school-items-mtwapa-books-centre (9).jpg",
+            "category": "School Essentials"
+        },
+        {
+            "id": "110a",
+            "title": "General School Item",
+            "price": 50,
+            "image": "images/school-items/school-items-mtwapa-books-centre (10).jpg",
+            "category": "School Essentials"
+        },
+        {
+            "id": "111a",
+            "title": "General School Item",
+            "price": 50,
+            "image": "images/school-items/school-items-mtwapa-books-centre (11).jpg",
+            "category": "School Essentials"
+        },
+        {
+            "id": "112a",
+            "title": "General School Item",
+            "price": 50,
+            "image": "images/school-items/school-items-mtwapa-books-centre (12).jpg",
+            "category": "School Essentials"
+        },
+        {
+            "id": "113a",
+            "title": "General School Item",
+            "price": 50,
+            "image": "images/school-items/school-items-mtwapa-books-centre (13).jpg",
+            "category": "School Essentials"
+        },
+        {
+            "id": "114a",
+            "title": "General School Item",
+            "price": 50,
+            "image": "images/school-items/school-items-mtwapa-books-centre (14).jpg",
+            "category": "School Essentials"
+        },
+        {
+            "id": "115a",
+            "title": "General School Item",
+            "price": 50,
+            "image": "images/school-items/school-items-mtwapa-books-centre (15).jpg",
+            "category": "School Essentials"
+        },
+        {
+            "id": "116a",
+            "title": "General School Item",
+            "price": 50,
+            "image": "images/school-items/school-items-mtwapa-books-centre (16).jpg",
+            "category": "School Essentials"
+        },
+        {
+            "id": "117a",
+            "title": "General School Item",
+            "price": 50,
+            "image": "images/school-items/school-items-mtwapa-books-centre (17).jpg",
+            "category": "School Essentials"
+        },
+        {
+            "id": "118a",
+            "title": "General School Item",
+            "price": 50,
+            "image": "images/school-items/school-items-mtwapa-books-centre (18).jpg",
+            "category": "School Essentials"
+        }
+    ]
+      ,
+      "officeEssentials": [
+    {
+        "id": "119a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (1).jpg",
+        "category": "Office Essentials"
+    },
+    {
+        "id": "120a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (2).jpg",
+        "category": "Office Essentials"
+    },
+    {
+        "id": "121a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (3).jpg",
+        "category": "Office Essentials"
+    },
+    {
+        "id": "122a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (4).jpg",
+        "category": "Office Essentials"
+    },
+    {
+        "id": "123a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (5).jpg",
+        "category": "Office Essentials"
+    },
+    {
+        "id": "124a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (6).jpg",
+        "category": "Office Essentials"
+    },
+    {
+        "id": "125a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (7).jpg",
+        "category": "Office Essentials"
+    },
+    {
+        "id": "126a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (8).jpg",
+        "category": "Office Essentials"
+    },
+    {
+        "id": "127a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (9).jpg",
+        "category": "Office Essentials"
+    },
+    {
+        "id": "128a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (10).jpg",
+        "category": "Office Essentials"
+    },
+    {
+        "id": "129a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (11).jpg",
+        "category": "Office Essentials"
+    },
+    {
+        "id": "130a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (12).jpg",
+        "category": "Office Essentials"
+    },
+    {
+        "id": "131a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (13).jpg",
+        "category": "Office Essentials"
+    },
+    {
+        "id": "132a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (14).jpg",
+        "category": "Office Essentials"
+    },
+    {
+        "id": "133a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (15).jpg",
+        "category": "Office Essentials"
+    },
+    {
+        "id": "134a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (16).jpg",
+        "category": "Office Essentials"
+    },
+    {
+        "id": "135a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (17).jpg",
+        "category": "Office Essentials"
+    },
+    {
+        "id": "136a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (18).jpg",
+        "category": "Office Essentials"
+    },
+    {
+        "id": "137a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (19).jpg",
+        "category": "Office Essentials"
+    },
+    {
+        "id": "138a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (20).jpg",
+        "category": "Office Essentials"
+    },
+    {
+        "id": "139a",
+        "title": "General Office Supply",
+        "price": 200,
+        "image": "images/office-supplies/office-supplies-mtwapa-books-centre (21).jpg",
+        "category": "Office Essentials"
+    }
+]
+,
+      "writingInstruments": [
+    {
+        "id": "140a",
+        "title": "General Writing Instrument",
+        "price": 100,
+        "image": "images/writing-instruments/writing-instruments-mtwapa-books-centre (1).jpg",
+        "category": "Writing Instruments"
+    },
+    {
+        "id": "141a",
+        "title": "General Writing Instrument",
+        "price": 100,
+        "image": "images/writing-instruments/writing-instruments-mtwapa-books-centre (2).jpg",
+        "category": "Writing Instruments"
+    },
+    {
+        "id": "142a",
+        "title": "General Writing Instrument",
+        "price": 100,
+        "image": "images/writing-instruments/writing-instruments-mtwapa-books-centre (3).jpg",
+        "category": "Writing Instruments"
+    },
+    {
+        "id": "143a",
+        "title": "General Writing Instrument",
+        "price": 100,
+        "image": "images/writing-instruments/writing-instruments-mtwapa-books-centre (4).jpg",
+        "category": "Writing Instruments"
+    },
+    {
+        "id": "144a",
+        "title": "General Writing Instrument",
+        "price": 100,
+        "image": "images/writing-instruments/writing-instruments-mtwapa-books-centre (5).jpg",
+        "category": "Writing Instruments"
+    },
+    {
+        "id": "145a",
+        "title": "General Writing Instrument",
+        "price": 100,
+        "image": "images/writing-instruments/writing-instruments-mtwapa-books-centre (6).jpg",
+        "category": "Writing Instruments"
+    },
+    {
+        "id": "146a",
+        "title": "General Writing Instrument",
+        "price": 100,
+        "image": "images/writing-instruments/writing-instruments-mtwapa-books-centre (7).jpg",
+        "category": "Writing Instruments"
+    },
+    {
+        "id": "147a",
+        "title": "General Writing Instrument",
+        "price": 100,
+        "image": "images/writing-instruments/writing-instruments-mtwapa-books-centre (8).jpg",
+        "category": "Writing Instruments"
+    },
+    {
+        "id": "148a",
+        "title": "General Writing Instrument",
+        "price": 100,
+        "image": "images/writing-instruments/writing-instruments-mtwapa-books-centre (9).jpg",
+        "category": "Writing Instruments"
+    },
+    {
+        "id": "149a",
+        "title": "General Writing Instrument",
+        "price": 100,
+        "image": "images/writing-instruments/writing-instruments-mtwapa-books-centre (10).jpg",
+        "category": "Writing Instruments"
+    },
+    {
+        "id": "150a",
+        "title": "General Writing Instrument",
+        "price": 100,
+        "image": "images/writing-instruments/writing-instruments-mtwapa-books-centre (11).jpg",
+        "category": "Writing Instruments"
+    },
+    {
+        "id": "151a",
+        "title": "General Writing Instrument",
+        "price": 100,
+        "image": "images/writing-instruments/writing-instruments-mtwapa-books-centre (12).jpg",
+        "category": "Writing Instruments"
+    },
+    {
+        "id": "152a",
+        "title": "General Writing Instrument",
+        "price": 100,
+        "image": "images/writing-instruments/writing-instruments-mtwapa-books-centre (13).jpg",
+        "category": "Writing Instruments"
+    },
+    {
+        "id": "153a",
+        "title": "General Writing Instrument",
+        "price": 100,
+        "image": "images/writing-instruments/writing-instruments-mtwapa-books-centre (14).jpg",
+        "category": "Writing Instruments"
+    },
+    {
+        "id": "154a",
+        "title": "General Writing Instrument",
+        "price": 100,
+        "image": "images/writing-instruments/writing-instruments-mtwapa-books-centre (15).jpg",
+        "category": "Writing Instruments"
+    }
+]
+,
+      "paperNotebooks": [
+    {
+        "id": "155a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (1).png",
+        "category": "Papers & Notebooks"
+    },
+    {
+        "id": "156a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (2).jpg",
+        "category": "Papers & Notebooks"
+    },
+    {
+        "id": "157a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (3).jpg",
+        "category": "Papers & Notebooks"
+    },
+    {
+        "id": "158a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (4).jpg",
+        "category": "Papers & Notebooks"
+    },
+    {
+        "id": "159a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (5).jpg",
+        "category": "Papers & Notebooks"
+    },
+    {
+        "id": "160a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (6).jpg",
+        "category": "Papers & Notebooks"
+    },
+    {
+        "id": "161a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (7).jpg",
+        "category": "Papers & Notebooks"
+    },
+    {
+        "id": "162a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (8).jpg",
+        "category": "Papers & Notebooks"
+    },
+    {
+        "id": "163a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (9).jpg",
+        "category": "Papers & Notebooks"
+    },
+    {
+        "id": "164a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (10).jpg",
+        "category": "Papers & Notebooks"
+    },
+    {
+        "id": "165a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (11).jpg",
+        "category": "Papers & Notebooks"
+    },
+    {
+        "id": "166a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (12).jpg",
+        "category": "Papers & Notebooks"
+    },
+    {
+        "id": "167a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (13).jpg",
+        "category": "Papers & Notebooks"
+    },
+    {
+        "id": "168a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (14).jpg",
+        "category": "Papers & Notebooks"
+    },
+    {
+        "id": "169a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (15).jpg",
+        "category": "Papers & Notebooks"
+    },
+    {
+        "id": "170a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (16).jpg",
+        "category": "Papers & Notebooks"
+    },
+    {
+        "id": "171a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (17).jpg",
+        "category": "Papers & Notebooks"
+    },
+    {
+        "id": "172a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (18).jpg",
+        "category": "Papers & Notebooks"
+    },
+    {
+        "id": "173a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (19).jpg",
+        "category": "Papers & Notebooks"
+    },
+    {
+        "id": "174a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (20).jpg",
+        "category": "Papers & Notebooks"
+    },
+    {
+        "id": "175a",
+        "title": "General Paper or Notebook",
+        "price": 150,
+        "image": "images/paper-and-notebook/paper-and-notebooks-mtwapa-books-centre (21).jpg",
+        "category": "Papers & Notebooks"
+    }
+]
+
+      
+    }
+  }

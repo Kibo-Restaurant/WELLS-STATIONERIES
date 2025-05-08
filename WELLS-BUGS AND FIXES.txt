@@ -7,14 +7,14 @@
 3.Cart accessed via navbar toogle button should close navbar too.
 * Visit navbar controlling button to fix
 *Point and add eventlistener click
- =
+ =DONE Z-INDEX EASY
  
 4. Closing the Modal should be possible when one clicks outside it
  =
 
 5. Check out images is small
   *Glightbox to view images
-  *
+  *DONE
 
 6. Cart is empty in check out
   *Find a way of viewing modal in check out
@@ -33,5 +33,6 @@
 
 11. PDF.JS at checkout.html
 =
-12. Navbar inchecki=out aand choose payment links
+12. Navbar inchecki=out aand choose payment links-
+  FIX NAVBAR, HEADS AND FOOTER TO BE UNIFORM
 =
